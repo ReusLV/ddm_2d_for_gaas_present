@@ -1,0 +1,28 @@
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# MATLAB editor, build, and generated files
+*.asv
+*.autosave
+*.m~
+*.mex*
+slprj/
+codegen/
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and temporary files
+.idea/
+.vscode/
+*.bak
+*.tmp
+*~
+
+# Legacy output location (current outputs belong in results/comparisons/)
+visualization/comp/

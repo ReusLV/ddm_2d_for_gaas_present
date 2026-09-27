@@ -1,0 +1,8 @@
+* tutorial_Nn
+* Netlist exported on Jun 23 2025, 13:41 by COMSOL 6.2.0.278.
+V2 0 1 DC 0.5 
+V3 1 2 SIN (0.0 0.5 2.0E10 0.0 0.0 0.0 )
+V4 2 3 SIN (0.0 0.5 2.0E10 0.0 0.0 0.0 )
+R2 3 4 50.0
+R3 5 0 50.0
+.END
